@@ -11,4 +11,4 @@ Features to Work On:
   
 This application is only created to prove security loopholes in the Umich Recording Website. I do not recommend distribution or usage of this application to share and distribute University Of Michigan Copyright.
 
-**DO NOT USE FOR PRIVACY. DO NOT ENCOURAGE USAGE FOR PRIVACY**
+**DO NOT ENCOURAGE USAGE FOR PRIVACY**
