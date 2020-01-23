@@ -7,4 +7,4 @@ Features to Work On:
   - Some Departments in Umich, have slightly Modified leccap tools. Add support for modified leccap downloader.
   - Tested and Works on EECS280 and EECS281 Leccap Sites. 
   - Add support for faster downloads. 
-  - Add support for Changing Names of Videos Dynamically
+  - Add support for changing names of videos dynamically.
